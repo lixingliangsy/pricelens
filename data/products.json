@@ -1,0 +1,26 @@
+[
+  {
+    "id": "prd_pricelens_pro",
+    "name": "Pro",
+    "description": "Unlimited analyses, save history",
+    "price": 19,
+    "currency": "USD",
+    "billingPeriod": "monthly",
+    "waffoProductId": "PROD_6zFjdRqcdQQ2HqqhJVY3YR",
+    "status": "published",
+    "createdAt": "2026-07-12T00:00:00.000Z",
+    "updatedAt": "2026-07-12T00:00:00.000Z"
+  },
+  {
+    "id": "prd_pricelens_studio",
+    "name": "Studio",
+    "description": "Competitor batch, export",
+    "price": 49,
+    "currency": "USD",
+    "billingPeriod": "monthly",
+    "waffoProductId": "PROD_3R2VzbiTwRJHaYsTo91PAB",
+    "status": "published",
+    "createdAt": "2026-07-12T00:00:00.000Z",
+    "updatedAt": "2026-07-12T00:00:00.000Z"
+  }
+]
